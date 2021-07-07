@@ -1,11 +1,12 @@
 click==8.0.1
 Flask==2.0.1
 flask-heroku==0.1.9
+Flask-SQLAlchemy==2.5.1
 greenlet==1.1.0
 gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
+mysql-connector==2.2.9
 SQLAlchemy==1.4.20
 Werkzeug==2.0.1
-dash-bootstrap-components>=0.10.1
