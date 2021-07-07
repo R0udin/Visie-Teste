@@ -1,1 +1,1 @@
-web: gunicorn visie-teste.wsgi
+web: gunicorn app.wsgi
